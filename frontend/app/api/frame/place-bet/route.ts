@@ -1,4 +1,5 @@
-// filepath: /mnt/data/Desktop/Base/p2p-betting-mini-app/app/api/frame/place-bet/route.ts
+/* eslint-disable @typescript-eslint/no-unused-vars */
+/* eslint-disable @typescript-eslint/no-explicit-any */
 import { NextResponse } from "next/server";
 import { getContract } from "../../../lib/contract";
 import { ethers } from "ethers";
